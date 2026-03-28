@@ -1,0 +1,5 @@
+Para acessar as funcoes selecione
+======================================
+libera pN	liberer porta firewall
+		N informe a porta
+====================================== 
