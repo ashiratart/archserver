@@ -1,0 +1,13 @@
+python-more-itertools: /usr/lib/python3.14/site-packages/more_itertools/py.typed exists in filesystem
+python-more-itertools: /usr/lib/python3.14/site-packages/more_itertools/recipes.py exists in filesystem
+python-more-itertools: /usr/lib/python3.14/site-packages/more_itertools/recipes.pyi exists in filesystem
+python-jaraco.functools: /usr/lib/python3.14/site-packages/jaraco/functools/__init__.py exists in filesystem
+python-jaraco.functools: /usr/lib/python3.14/site-packages/jaraco/functools/__init__.pyi exists in filesystem
+python-jaraco.functools: /usr/lib/python3.14/site-packages/jaraco/functools/__pycache__/__init__.cpython-314.pyc exists in filesystem
+python-jaraco.functools: /usr/lib/python3.14/site-packages/jaraco/functools/py.typed exists in filesystem
+Errors occurred, no packages were upgraded.
+ -> error installing repo packages
+error installing repo packages
+error installing repo packages
+
+erro idique que a pacotes soltos vamos investigar oq acontece arquivo solucao.sh
